@@ -1,0 +1,6 @@
+00:33:33.239 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x75c291940a5c7045
+00:33:41.682 [main] INFO  resource.base - Navigation bar is displayed
+00:34:00.440 [main] INFO  resource.base - restricted user
+00:34:03.502 [main] INFO  resource.base - non restricted user
+00:34:05.606 [main] INFO  resource.base - Driver is initialized
+00:34:13.187 [main] INFO  resource.base - Navigated to homepage
